@@ -4,4 +4,4 @@ Quick script to check if silverstripe supported modules have merge-up.yml and di
 
 ### Usage
 
-`TOKEN=<githubtoken> run.php`
+`GITHUB_TOKEN=<githubtoken> run.php`
